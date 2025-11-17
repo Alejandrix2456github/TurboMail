@@ -15,7 +15,7 @@
     class TurboMail {
         constructor() {
             // High-contrast envelope icon (inline SVG)
-            this.logo = "https://github.com/Alejandrix2456github/TurboMail/blob/main/TurboMail.png";
+            this.logo = "https://cdn.jsdelivr.net/gh/Alejandrix2456github/TurboMail@main/TurboMail.png";
         }
 
         getInfo() {
